@@ -40,6 +40,7 @@ Simple yet flexible JavaScript charting for designers & developers
 3. Integrate TailwindCSS
 4. Create an API route on Next.js that returns the following dataset for your graphs.
 5. Create a client-side route with the URL `/sales-dashboard`
+6. Fetch your api to return the data
 6. `Code`
 
 ##### What we're looking at
