@@ -6,7 +6,7 @@ Congratulations on making it to the next stages of the Getter team! We thought y
 
 There is no wrong answers on this challenge :)
 
-__Please do not spend more than 3 hours on this challenge.__
+We appreciate you taking the time to complete this, so we're very conscious about the time you spend. __Please do not spend more than 3 hours on this challenge.__
 
 ----
 
@@ -56,6 +56,10 @@ Simple yet flexible JavaScript charting for designers & developers
 #### Bonus points
 - Write less code (KISS approach - Keep It Simple Stupid)
 - Deploy it on Vercel ;)
+
+
+#### Once you're done
+Just reply to the email with your forked repo - good luck!
  
  <br />
  <br />
