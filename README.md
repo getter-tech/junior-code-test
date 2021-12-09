@@ -32,16 +32,23 @@ A utility first class based css framework.
 > **Chart.js** [https://www.chartjs.org/]
 Simple yet flexible JavaScript charting for designers & developers
 
+> **Next.js** [https://nextjs.org/]
+Next.js is an open-source development framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites.
+
+> **Ava** [https://github.com/avajs/ava]
+AVA is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that lets you develop with confidence
+
 -----
 
 ##### Full stack steps
-1. Fork our repo
-2. Set up a project with Next.js)
-3. Integrate TailwindCSS
-4. Create an API route on Next.js that returns the following dataset for your graphs.
+1. Set up a project with Next.js (npm or yarn)
+2. Integrate TailwindCSS
+3. Create an API route on Next.js that returns the following dataset for your graphs.
+4. Write a test for your API routes (test the response is the correct format)
 5. Create a client-side route with the URL `/sales-dashboard`
 6. Fetch your api to return the data
-6. `Code`
+7. `Code`
+8. Add it to your Github account and link to us :)
 
 ##### What we're looking at
 - **How you understand new frameworks/libraries** _(the docs are your friend!)_
@@ -60,7 +67,7 @@ Simple yet flexible JavaScript charting for designers & developers
 
 
 #### Once you're done
-Just reply to the email with your forked repo - good luck!
+Just reply to the email with your repo link - good luck! If get stuck or find something too difficult, just skip it and let us know in the email.
  
  <br />
  <br />
