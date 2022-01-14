@@ -59,8 +59,8 @@ AVA is a test runner for Node.js with a concise API, detailed error output, embr
 ----
 
 #### Bonus points
-- Write less code (KISS approach - Keep It Simple Stupid)
-- Deploy it on Vercel ;)
+- Clean code with inline comments
+- Polish (make it pretty)
 
 
 #### Once you're done
