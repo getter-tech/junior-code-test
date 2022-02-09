@@ -16,7 +16,7 @@ We appreciate you taking the time to complete this, so we're very conscious abou
 Create a basic internal metrics dashboard for use in the office to view important information. As the dashboard would be displayed on a TV, it should be responsive to display as much as possible without scrolling.
 
 ##### Wireframe
-![](https://share.balsamiq.com/c/bkskDy5jDBDT9JoGLECcb8.png)
+![metrics-dash](https://user-images.githubusercontent.com/2343152/153232334-e4187a74-6fa7-4d1b-b047-255d59174158.png)
 
 -----
 
